@@ -1,0 +1,1 @@
+J'ai modifié train_model.py pour ajouter un message de démarrage.
