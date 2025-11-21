@@ -1,3 +1,7 @@
+# Modification TP Git - Étudiant B
+print("Début du preprocessing")
+
+
 from sklearn.model_selection import train_test_split
 
 def preprocess_data(data, testSize):
