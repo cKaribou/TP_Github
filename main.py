@@ -3,6 +3,7 @@ from sklearn import svm
 from train_model import train_model
 from preprocess_data import preprocess_data
 from pathlib import Path
+print("Version A du main")
 
 # On lit directement le fichier dans tes Téléchargements
 csv_path = Path.home() / "Downloads" / "Iris.csv"
