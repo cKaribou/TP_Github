@@ -1,3 +1,6 @@
+# Modification TP Git - Étudiant A
+print("Début du script d'entraînement")
+
 def train_model(train_X, train_y, test_X, model):
     """Entraîne un modèle de classification et retourne des prédictions sur le dataset de test"""
     model.fit(train_X, train_y)
